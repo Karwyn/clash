@@ -3,6 +3,7 @@
 
 # ======= 私有域名 =======
 DOMAIN-SUFFIX,phrjy.com
+DOMAIN,api.day.app
 
 # ======= 国内 DNS 域名 =======
 DOMAIN-SUFFIX,alidns.com
